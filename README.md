@@ -2,16 +2,16 @@
 awesome list of awesome things
 
 
-#awesome lists:
+# awesome lists:
 
 - https://github.com/sindresorhus/awesome
 
-#podcasts (german)
+# podcasts (german)
 
 - https://chaosradio.ccc.de/
 - https://logbuch-netzpolitik.de/
 - https://requestforcomments.de/
 
-#podcasts (english)
+# podcasts (english)
 
 - https://changelog.com/podcast
