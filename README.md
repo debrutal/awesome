@@ -11,6 +11,7 @@ awesome list of awesome things
 - https://chaosradio.ccc.de/
 - https://logbuch-netzpolitik.de/
 - https://requestforcomments.de/
+- https://freakshow.fm/
 
 # podcasts (english)
 
