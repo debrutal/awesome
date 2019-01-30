@@ -2,7 +2,7 @@
 awesome list of awesome things
 
 
-# awesome lists:
+# awesome lists
 
 - https://github.com/sindresorhus/awesome
 
