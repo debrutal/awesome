@@ -6,6 +6,12 @@ awesome list of awesome things
 
 - https://github.com/sindresorhus/awesome
 
+# Communication (Human to Human)
+
+- Matrix: https://matrix.org/docs/projects/client/riot/
+- Slack: https://slack.com/
+- Mattermost: https://mattermost.com/
+
 # podcasts (german)
 
 - https://chaosradio.ccc.de/
