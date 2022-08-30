@@ -22,3 +22,9 @@ awesome list of awesome things
 # podcasts (english)
 
 - https://changelog.com/podcast
+- [rustacion station](https://rustacean-station.org)
+
+# programming language
+
+- the only real one <3
+  - [rust](https://www.rust-lang.org/)
